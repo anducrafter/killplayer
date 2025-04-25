@@ -1,0 +1,6 @@
+name: KillMoney
+version: '1.0'
+main: ch.andu.killMoney.KillMoney
+api-version: '1.21'
+authors: [ anducrafter ]
+description: CakeWars
